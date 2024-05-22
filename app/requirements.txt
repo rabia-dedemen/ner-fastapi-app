@@ -3,7 +3,6 @@ gensim
 joblib
 nltk
 pydantic
-spacy
 torch
 transformers
 uvicorn
